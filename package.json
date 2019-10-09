@@ -1,0 +1,31 @@
+{
+  "name": "hello-cli",
+  "version": "1.0.0",
+  "description": "demo cli app using node.js",
+  "main": "bin/index.js",
+  "bin": {
+    "hello": "./bin/index.js",
+    "world": "./bin/index2.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdhaliwal97/hello-cli.git"
+  },
+  "keywords": [
+    "node.js",
+    "cli"
+  ],
+  "author": {
+    "name": "Manpreet Singh",
+    "email": "rdhaliwal97@outlook.com",
+    "url": "https://github.com/Rdhaliwal97"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdhaliwal97/hello-cli/issues"
+  },
+  "homepage": "https://github.com/rdhaliwal97/hello-cli#readme"
+}
